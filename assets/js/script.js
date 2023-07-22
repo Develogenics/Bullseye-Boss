@@ -82,17 +82,17 @@ let quizData = [
   {
     question: "Can anyone learn archery",
     choices: ["Yes", "No", "Maybe"],
-    correctAnswer: 1,
+    correctAnswer: 0,
   },
   {
     question: "How long ago have people been using a bow and arrow?",
     choices: ["25,000 years", "6,000 years", "500 years"],
-    correctAnswer: 1,
+    correctAnswer: 0,
   },
   {
     question: "When was archery first included as an Olympic sport?",
     choices: ["1972", "1924", "1900"],
-    correctAnswer: 3,
+    correctAnswer: 2,
   },
 ];
 
