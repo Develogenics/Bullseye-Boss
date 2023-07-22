@@ -4,7 +4,7 @@
 
 var carouselElement = document.querySelector(".carousel");
 if (carouselElement) {
-  let firstImg = carouselElement.querySelectorAll("img")[0];
+  let firstImg = Array.from(carouselElement.querySelectorAll("img"))[0];
   let arrowIcons = document.querySelectorAll(".wrapper i");
   let isDragStart = false,
     isDragging = false,
