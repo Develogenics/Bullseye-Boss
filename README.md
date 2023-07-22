@@ -1,6 +1,6 @@
 <h1 align="center">Bullseye Boss</h1>
 
-<a href="https://develogenics.github.io/Achilles-Ebikes/" rel="nofollow">View site here</a>
+<a href="https://develogenics.github.io/Bullseye-Boss/" rel="nofollow">View site here</a>
 
 
 
@@ -134,7 +134,7 @@ Draw.io was used to create the wireframes.
   
 <h2 align="center">Version control</h2>
 
-Code anywhere and Gitpod were used to commit the files and folders to github. https://github.com/Develogenics/Achilles-Ebikes
+Code anywhere and Gitpod were used to commit the files and folders to github. https://develogenics.github.io/Bullseye-Boss/
 
 <h2 align="center">Languages used</h2>
 
