@@ -71,6 +71,7 @@ nav.navbar .dropdown-item:hover {
   justify-content: space-between;
   align-items: center;
   flex-grow: 1;
+  text-align: center;
 }
 
 .nav-item {
@@ -112,29 +113,43 @@ nav.navbar .navbar-nav .nav-link {
   color:#CCF381;
     font-family: 'Montserrat', sans-serif;
      letter-spacing: 1px;
+     text-align: center;
 }
 
 /* dropdown menu */
 nav.navbar .dropdown-menu {
-  background-color: #000; /* Background color for dropdown */
+  background-color: #000; 
 }
 
 nav.navbar .dropdown-item {
-  color: #CCF381; /* Text color for dropdown items */
+  color: #CCF381;
     font-family: 'Montserrat', sans-serif;
      letter-spacing: 1px;
+     text-align: center;
 }
 
 nav.navbar .dropdown-item:hover {
-  background-color: blue; /* Background color on hover */
+  background-color: blue;
+  text-align: center ;
 }
 
-
-
-
+  @media screen and (max-width: 768px) {
+    .about {
+      text-align: center; 
+    }
+  
+    .inner-section {
+      width: 100%; 
+      margin: 0 auto; 
+      padding: 80px; 
+    }
+     
+    .centered-button {
+      display: flex;
+      justify-content: center;
+    }
+  }
       /* main image content */
-
-
 
 
 
