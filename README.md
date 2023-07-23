@@ -1,5 +1,9 @@
 <h1 align="center">Bullseye Boss</h1>
 
+<img src="assets/images/Bullseye-Mock-Up.png">
+
+
+
 <a href="https://develogenics.github.io/Bullseye-Boss/" rel="nofollow">View site here</a>
 
 
