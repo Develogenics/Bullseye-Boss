@@ -10,7 +10,7 @@ Bullseye Boss is a site for those who enjoy or are looking to take up archery in
 
 <h2 align="center">Design</h2>
 
-draw.io was used for wireframes, 
+Draw.io was used for wireframes, 
 
 <h3>Index</h3>
 
@@ -42,9 +42,9 @@ draw.io was used for wireframes,
   
 <h3>Index</h3>
 
-The Index page consists of a bootsrap nav menu with 5 links, one of which is a drop down with 4 links, links to wikipedia on recurve bows, compound bows and traditional archery.
+The Index page consists of a bootstrap nav menu with 5 links, one of which is a drop down with 4 links, links to wikipedia on recurve bows, compound bows and traditional archery.
 
-There is a main image that slowly zooms in using css animation that was taking from code institue modules,  It has a header in teh center with a transparent background. Below the main image is another section with two images, each image has a header and a paragraph, these are also linked to the wikipedia pages for compound bows and traditional bows.
+There is a main image that slowly zooms in using css animation that was taking from code institue modules, It has a header in the center with a transparent background. Below the main image is another section with two images, each image has a header and a paragraph, these are also linked to the wikipedia pages for compound bows and traditional bows.
 
 On window load an alert welcome message appears.
 
@@ -53,15 +53,15 @@ On window load an alert welcome message appears.
   
 <h3>About section </h3>
   
-The about section contains a main image with header, underneath this section is another section with two images stacked on top of each other. On teh right had side are Headings and paragraphs telling teh user what bullseye boss is about, who they cater for, how many days they are open, private lessons, free equipment usage, a friendly family orientated environment and the low fees.
+The about section contains a main image with header, underneath this section is another section with two images stacked on top of each other. On the right hand side are headings and paragraphs telling the user what bullseye boss is about, who they cater for, how many days they are open, private lessons, free equipment usage, a friendly family orientated environment and the low fees.
 
 <img src="assets/images/mainabout.png">
   
 <h3>Gallery</h3>
 
-The gallery page once again has a main image with header in the center. Underneath thi ssection is another section taht contains a gallery, the gallery consists of many images horizontaly, in desktop view there are three of them which turns into two then one as the resolution changes. 
+The gallery page once again has a main image with header in the center. Underneath this section is another section taht contains a gallery, the gallery consists of many images horizontaly, in desktop view there are three of them which turns into two then one as the resolution changes. 
 
-The gallery can be moved by grabbing with the mouse or by clicking arrows on each side, teh photos then slide along smoothly, this function was done in JS.
+The gallery can be moved by grabbing with the mouse or by clicking arrows on each side, the photos then slide along smoothly, this function was done in JS.
 
 <img src="assets/images/gallerymain.png">
   
@@ -73,7 +73,7 @@ The quiz page consits of main image section with header, underneath a section th
 
 <h2>Contact</h2>
   
-The contact page has a form , a submit button, social media links, a telephone number and a google maps link. 
+The contact page has a form, a submit button, social media links, a telephone number and a google maps link. 
 
 <img src="assets/images/contactmain.png">
 
@@ -81,7 +81,7 @@ The contact page has a form , a submit button, social media links, a telephone n
 
 The website was designed with mobile first usage in mind. All pages used media queries, but the nav bar used bootstrap.
 
-All items move around each other, keep their original view but change size to suit. The nav bar has a handburger menu that when teh screen goes smaller it comes out , once clicked the nav links appear
+All items move around each other, keep their original view but change size to suit. The nav bar has a handburger menu that when the screen goes smaller it comes out, once clicked the nav links appear.
 
 <img src="assets/images/2view.png">
 
@@ -91,7 +91,7 @@ All items move around each other, keep their original view but change size to su
   
 <h2 align="center">Typography</h2>
 
-The site usesfont-family: 'Montserrat', sans-serif; for headings and font-family: 'Playfair Display', serif; for paragraphs
+The site uses font-family: 'Montserrat', sans-serif; for headings and font-family: 'Playfair Display', serif; for paragraphs
   
 <h2 align="center">Icons</h2>
   
@@ -108,7 +108,7 @@ The site had two a color scheme of standard black and a nice shade of green #CCF
 
 <h2 align="center">Validation</h2>
 
-Fixed all errors for the css and html files and passed the validators, the contrast was checked and passed also. I could not get rid of 1 error in eslint, I tried all alternative lines from what I could research at the moment, but have not had any result, the code functions perfectly and smoothly, I wiil be coming back to this until it is fixed.
+Fixed all errors for the css and html files and passed the validators, the contrast was checked and passed also. I could not get rid of 1 error in eslint, I tried all alternative lines from what I could research at the moment, but have not had any result, the code functions perfectly and smoothly, I will be coming back to this until it is fixed.
 
 <img src="assets/images/AAA.png">
 
@@ -119,11 +119,13 @@ Fixed all errors for the css and html files and passed the validators, the contr
 <img src="assets/images/htmlerrors.png">
 
 <img src="assets/images/htmlpass.png">
+
+<img src="assets/images/eslint1error.png">
   
 <h2 align="center">Frameworks libraries and software used</h2>
 
 Photoshop was used to comprees images and give them resolutions easier to work with.
-Bootstrap was used to create the nav bar and footer, the rest  of the content and to make it responsive along with a hamburger menu in mobile view.
+Bootstrap was used to create the nav bar and footer, the rest of the content and to make it responsive along with a hamburger menu in mobile view.
 Fontawesome was used for icons.
 Github was used to store all files for the site.
 Codeanywhere and Gitpod was used to commit the code.
@@ -150,9 +152,9 @@ Jquery
 
 <h2 align="center">Credit</h2>
 
-All code was either self created or was taken from codeinstitute, stack overflow, w3cschools, youtube, code-pen
+All code was either self created or was learned from codeinstitute, stack overflow, w3cschools, youtube, code-pen
 
-Written by John McGowan: full stack web developer student at code institute 
+Written by John McGowan: full stack web developer student at code institute 2023.
   
 
 

@@ -35,7 +35,6 @@ nav.navbar {
 
 .nav-item {
     margin-right: 15px;
-    /* increase/decrease the spacing between list items */
 }
 
 
@@ -66,7 +65,6 @@ nav.navbar .dropdown-item:hover {
     background-color: blue;
 }
 
-/* spreading list items apart */
 .navbar-nav {
     display: flex;
     justify-content: space-between;
@@ -77,19 +75,16 @@ nav.navbar .dropdown-item:hover {
 
 .nav-item {
     margin-right: 3px;
-    /* increase/decrease the spacing in list */
 }
 
 .logo-wrapper {
     margin-right: 25%;
-    /* space between logo and navigation items */
 }
 
 .icon {
     display: inline-block;
     color: #FF0000;
     margin-right: 5px;
-    /*  spacing between the icon and the word */
 }
 
 .nav-item:last-child {
