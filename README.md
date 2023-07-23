@@ -1,6 +1,6 @@
 <h1 align="center">Bullseye Boss</h1>
 
-<img src="assets/images/Bullseye-Mock-Up.png">
+<img src="assets/images/smartupscale.jpg">
 
 
 
