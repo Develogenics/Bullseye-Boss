@@ -1,7 +1,3 @@
-/*jslint browser:true, white:true */
-/*global Chart */
-
-
 var carouselElement = document.querySelector(".carousel");
 if (carouselElement) {
   let firstImg = Array.from(carouselElement.querySelectorAll("img"))[0];
