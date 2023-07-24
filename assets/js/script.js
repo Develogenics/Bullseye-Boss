@@ -202,6 +202,6 @@ function hello() {
 const currentPageURL = window.location.href;
 
 // Conditionally call the 'hello' function based on the URL of the current page
-if (currentPageURL.includes('index.html')) {
+if (currentPageURL.includes('./index.html')) {
   hello();
 }
