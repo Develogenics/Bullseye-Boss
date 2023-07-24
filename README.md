@@ -134,9 +134,9 @@ Any code that failed was checked thoroughly
 
 <img src="assets/images/htmlpass.png">
 
-<img src="assets/images/eslintfail">
+<img src="assets/images/eslintfail.png">
 
-<img src="assets/images/eslintpass">
+<img src="assets/images/eslintpass.png">
   
 <h2 align="center">Frameworks libraries and software used</h2>
 
