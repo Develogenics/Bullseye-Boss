@@ -110,9 +110,19 @@ All photos were taken from a google search, photoshop was used to change their s
 The site had two a color scheme of standard black and a nice shade of green #CCF381, these passed all contrast checks with AAA.
 
 
-<h2 align="center">Validation</h2>
+<h2 align="center">Validation and Testing</h2>
 
-Fixed all errors for the css and html files and passed the validators, the contrast was checked and passed also. I could not get rid of 1 error in eslint, I tried all alternative lines from what I could research at the moment, but have not had any result, the code functions perfectly and smoothly, I will be coming back to this until it is fixed.
+Fixed all errors for the css and html files and passed the validators, the contrast was checked and passed also. I used Eslint vor JS validation, it had no errors, except for errors from being connected in a none browser environment, using /* eslint-env browser */ i was able to put them to the side and not focus on them as i went through each error one by one, checked all relevent documentation and implemented the fixes, I had to test my code every step to make sure it worked without breaking anything and to be able to go back without losing track if there were any bad code written. 
+
+A bug, I came across, was a bootstrap code that would not allow css to overwrite it in css, it took me a while testing to find it, i began removing classes one by one until I found it.
+
+Lessons were learned on this 
+
+ANother issue 
+
+All code was tested each step of the way, any code that did not work was tested using dev tools and used online resources such as codeinstitute, mozzila, codepen, stackoverflow and various sites of informaton. 
+
+Any code that failed was checked thoroughly 
 
 <img src="assets/images/AAA.png">
 
@@ -124,7 +134,9 @@ Fixed all errors for the css and html files and passed the validators, the contr
 
 <img src="assets/images/htmlpass.png">
 
-<img src="assets/images/eslint1error.png">
+<img src="assets/images/eslintfail">
+
+<img src="assets/images/eslintpass">
   
 <h2 align="center">Frameworks libraries and software used</h2>
 
