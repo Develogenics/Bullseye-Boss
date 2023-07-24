@@ -1,4 +1,6 @@
-var carouselElement = document.querySelector(".carousel");
+// gallery
+
+let carouselElement = document.querySelector(".carousel");
 if (carouselElement) {
   let firstImg = Array.from(carouselElement.querySelectorAll("img"))[0];
   let arrowIcons = document.querySelectorAll(".wrapper i");
@@ -72,7 +74,7 @@ if (carouselElement) {
   carouselElement.addEventListener("touchend", dragStop);
 }
 
-
+//quiz
 
 let quizData = [
   {
@@ -168,6 +170,8 @@ showQuestion();
     }
   });
 
+
+//alert on page load
 
 function hello(){ 
 alert("Welcome!  > > >   Click ok to be a boss!"); 
