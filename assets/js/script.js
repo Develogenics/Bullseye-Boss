@@ -190,18 +190,5 @@ links.forEach((link) => {
   }
 });
 
-function customAlert(message) {
-  customAlert(message);
-}
 
-function hello() {
-  customAlert('Welcome!  > > >   Click OK to be a boss!');
-}
-
-// Get the current page's URL
-const currentPageURL = window.location.href;
-
-// Conditionally call the 'hello' function based on the URL of the current page
-if (currentPageURL.includes("index")) {
-  hello();
-}
+  
